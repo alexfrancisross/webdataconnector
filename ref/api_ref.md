@@ -5,77 +5,77 @@ title: WDC API Reference
 <nav class="tsd-navigation secondary well docs-menu col-xs-12 col-sm-4 col-md-3">
     <ul>
         <li class=" tsd-kind-module">
-            <a href="api_ref.html#webdataconnectorapi" class="tsd-kind-icon">Web<wbr>Data<wbr>ConnectorAPI</a>
+            <a href="api_ref.html#webdataconnectorapi" class="tsd-kind-icon">WebDataConnectorAPI</a>
             <ul>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.columninfo" class="tsd-kind-icon">Column<wbr>Info</a>
+                    <a href="api_ref.html#webdataconnectorapi.columninfo" class="tsd-kind-icon">ColumnInfo</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.aggtype" class="tsd-kind-icon">agg<wbr>Type</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.aggtype" class="tsd-kind-icon">aggType</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.columninfo.alias" class="tsd-kind-icon">alias</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.columnrole" class="tsd-kind-icon">column<wbr>Role</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.columnrole" class="tsd-kind-icon">columnRole</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.columntype" class="tsd-kind-icon">column<wbr>Type</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.columntype" class="tsd-kind-icon">columnType</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.datatype" class="tsd-kind-icon">data<wbr>Type</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.datatype" class="tsd-kind-icon">dataType</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.columninfo.description" class="tsd-kind-icon">description</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.georole" class="tsd-kind-icon">geo<wbr>Role</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.georole" class="tsd-kind-icon">geoRole</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.columninfo.id" class="tsd-kind-icon">id</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.numberformat" class="tsd-kind-icon">number<wbr>Format</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.numberformat" class="tsd-kind-icon">numberFormat</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.columninfo.unitsformat" class="tsd-kind-icon">units<wbr>Format</a>
+                            <a href="api_ref.html#webdataconnectorapi.columninfo.unitsformat" class="tsd-kind-icon">unitsFormat</a>
                         </li>
                     </ul>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.datadonecallback" class="tsd-kind-icon">Data<wbr>Done<wbr>Callback</a>
+                    <a href="api_ref.html#webdataconnectorapi.datadonecallback" class="tsd-kind-icon">DataDoneCallback</a>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.initcallback" class="tsd-kind-icon">Init<wbr>Callback</a>
+                    <a href="api_ref.html#webdataconnectorapi.initcallback" class="tsd-kind-icon">InitCallback</a>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.schemacallback" class="tsd-kind-icon">Schema<wbr>Callback</a>
+                    <a href="api_ref.html#webdataconnectorapi.schemacallback" class="tsd-kind-icon">SchemaCallback</a>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-kind-icon">Shutdown<wbr>Callback</a>
+                    <a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-kind-icon">ShutdownCallback</a>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a href="api_ref.html#webdataconnectorapi.table" class="tsd-kind-icon">Table</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.table.incrementvalue" class="tsd-kind-icon">increment<wbr>Value</a>
+                            <a href="api_ref.html#webdataconnectorapi.table.incrementvalue" class="tsd-kind-icon">incrementValue</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.table.tableinfo" class="tsd-kind-icon">table<wbr>Info</a>
+                            <a href="api_ref.html#webdataconnectorapi.table.tableinfo" class="tsd-kind-icon">tableInfo</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.table.appendrows" class="tsd-kind-icon">append<wbr>Rows</a>
+                            <a href="api_ref.html#webdataconnectorapi.table.appendrows" class="tsd-kind-icon">appendRows</a>
                         </li>
                     </ul>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-kind-icon">Table<wbr>Info</a>
+                    <a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-kind-icon">TableInfo</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableinfo-1.columns" class="tsd-kind-icon">columns</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableinfo-1.defaultalias" class="tsd-kind-icon">default<wbr>Alias</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableinfo-1.defaultalias" class="tsd-kind-icon">defaultAlias</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableinfo-1.description-1" class="tsd-kind-icon">description</a>
@@ -84,12 +84,12 @@ title: WDC API Reference
                             <a href="api_ref.html#webdataconnectorapi.tableinfo-1.id-1" class="tsd-kind-icon">id</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableinfo-1.incrementcolumnid" class="tsd-kind-icon">increment<wbr>Column<wbr>Id</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableinfo-1.incrementcolumnid" class="tsd-kind-icon">incrementColumnId</a>
                         </li>
                     </ul>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-kind-icon">Standard<wbr>Connection</a>
+                    <a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-kind-icon">StandardConnection</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.standardconnection.alias" class="tsd-kind-icon">alias</a>
@@ -103,13 +103,13 @@ title: WDC API Reference
                     </ul>
                 </li>
 				<li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-kind-icon">Web<wbr>Data<wbr>Connector</a>
+                    <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-kind-icon">WebDataConnector</a>
                     <ul>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.webdataconnector.getdata" class="tsd-kind-icon">get<wbr>Data</a>
+                            <a href="api_ref.html#webdataconnectorapi.webdataconnector.getdata" class="tsd-kind-icon">getData</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.webdataconnector.getschema" class="tsd-kind-icon">get<wbr>Schema</a>
+                            <a href="api_ref.html#webdataconnectorapi.webdataconnector.getschema" class="tsd-kind-icon">getSchema</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.webdataconnector.init" class="tsd-kind-icon">init</a>
@@ -123,16 +123,16 @@ title: WDC API Reference
                     <a href="api_ref.html#webdataconnectorapi.tableau" class="tsd-kind-icon">tableau</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.authpurpose" class="tsd-kind-icon">auth<wbr>Purpose</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.authpurpose" class="tsd-kind-icon">authPurpose</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.authtype" class="tsd-kind-icon">auth<wbr>Type</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.authtype" class="tsd-kind-icon">authType</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.connectiondata" class="tsd-kind-icon">connection<wbr>Data</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.connectiondata" class="tsd-kind-icon">connectionData</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.connectionname" class="tsd-kind-icon">connection<wbr>Name</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.connectionname" class="tsd-kind-icon">connectionName</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.locale" class="tsd-kind-icon">locale</a>
@@ -150,19 +150,19 @@ title: WDC API Reference
                             <a href="api_ref.html#webdataconnectorapi.tableau.version" class="tsd-kind-icon">version</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.abortforauth" class="tsd-kind-icon">abort<wbr>For<wbr>Auth</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.abortforauth" class="tsd-kind-icon">abortForAuth</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.abortwitherror" class="tsd-kind-icon">abort<wbr>With<wbr>Error</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.abortwitherror" class="tsd-kind-icon">abortWithError</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.log" class="tsd-kind-icon">log</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.makeconnector" class="tsd-kind-icon">make<wbr>Connector</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.makeconnector" class="tsd-kind-icon">makeConnector</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.tableau.registerconnector" class="tsd-kind-icon">register<wbr>Connector</a>
+                            <a href="api_ref.html#webdataconnectorapi.tableau.registerconnector" class="tsd-kind-icon">registerConnector</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.submit" class="tsd-kind-icon">submit</a>
@@ -170,7 +170,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.aggtypeenum" class="tsd-kind-icon">agg<wbr>Type<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.aggtypeenum" class="tsd-kind-icon">aggTypeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.aggtypeenum.avg" class="tsd-kind-icon">avg</a>
@@ -179,7 +179,7 @@ title: WDC API Reference
                             <a href="api_ref.html#webdataconnectorapi.aggtypeenum.count" class="tsd-kind-icon">count</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.aggtypeenum.count_dist" class="tsd-kind-icon">count_<wbr>dist</a>
+                            <a href="api_ref.html#webdataconnectorapi.aggtypeenum.count_dist" class="tsd-kind-icon">count_dist</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.aggtypeenum.median" class="tsd-kind-icon">median</a>
@@ -190,7 +190,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.authpurposeenum" class="tsd-kind-icon">auth<wbr>Purpose<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.authpurposeenum" class="tsd-kind-icon">authPurposeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.authpurposeenum.enduring" class="tsd-kind-icon">enduring</a>
@@ -201,7 +201,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.authtypeenum" class="tsd-kind-icon">auth<wbr>Type<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.authtypeenum" class="tsd-kind-icon">authTypeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.authtypeenum.basic" class="tsd-kind-icon">basic</a>
@@ -215,7 +215,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.columnroleenum" class="tsd-kind-icon">column<wbr>Role<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.columnroleenum" class="tsd-kind-icon">columnRoleEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.columnroleenum.dimension" class="tsd-kind-icon">dimension</a>
@@ -226,7 +226,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.columntypeenum" class="tsd-kind-icon">column<wbr>Type<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.columntypeenum" class="tsd-kind-icon">columnTypeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.columntypeenum.continuous" class="tsd-kind-icon">continuous</a>
@@ -237,7 +237,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.datatypeenum" class="tsd-kind-icon">data<wbr>Type<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.datatypeenum" class="tsd-kind-icon">dataTypeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.datatypeenum.bool" class="tsd-kind-icon">bool</a>
@@ -260,36 +260,36 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.geographicroleenum" class="tsd-kind-icon">geographic<wbr>Role<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.geographicroleenum" class="tsd-kind-icon">geographicRoleEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.area_code" class="tsd-kind-icon">area_<wbr>code</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.area_code" class="tsd-kind-icon">area_code</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.cbsa_msa" class="tsd-kind-icon">cbsa_<wbr>msa</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.cbsa_msa" class="tsd-kind-icon">cbsa_msa</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.geographicroleenum.city" class="tsd-kind-icon">city</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.congressional_district" class="tsd-kind-icon">congressional_<wbr>district</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.congressional_district" class="tsd-kind-icon">congressional_district</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.country_region" class="tsd-kind-icon">country_<wbr>region</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.country_region" class="tsd-kind-icon">country_region</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.geographicroleenum.county" class="tsd-kind-icon">county</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.state_province" class="tsd-kind-icon">state_<wbr>province</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.state_province" class="tsd-kind-icon">state_province</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.zip_code_postcode" class="tsd-kind-icon">zip_<wbr>code_<wbr>postcode</a>
+                            <a href="api_ref.html#webdataconnectorapi.geographicroleenum.zip_code_postcode" class="tsd-kind-icon">zip_code_postcode</a>
                         </li>
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.localeenum" class="tsd-kind-icon">locale<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.localeenum" class="tsd-kind-icon">localeEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.localeenum.america" class="tsd-kind-icon">america</a>
@@ -318,7 +318,7 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.numberformatenum" class="tsd-kind-icon">number<wbr>Format<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.numberformatenum" class="tsd-kind-icon">numberFormatEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.numberformatenum.currency" class="tsd-kind-icon">currency</a>
@@ -335,27 +335,27 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.phaseenum" class="tsd-kind-icon">phase<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.phaseenum" class="tsd-kind-icon">phaseEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.phaseenum.authphase" class="tsd-kind-icon">auth<wbr>Phase</a>
+                            <a href="api_ref.html#webdataconnectorapi.phaseenum.authphase" class="tsd-kind-icon">authPhase</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.phaseenum.gatherdataphase" class="tsd-kind-icon">gather<wbr>Data<wbr>Phase</a>
+                            <a href="api_ref.html#webdataconnectorapi.phaseenum.gatherdataphase" class="tsd-kind-icon">gatherDataPhase</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.phaseenum.interactivephase" class="tsd-kind-icon">interactive<wbr>Phase</a>
+                            <a href="api_ref.html#webdataconnectorapi.phaseenum.interactivephase" class="tsd-kind-icon">interactivePhase</a>
                         </li>
                     </ul>
                 </li>
                 <li class=" tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.unitsformatenum" class="tsd-kind-icon">units<wbr>Format<wbr>Enum</a>
+                    <a href="api_ref.html#webdataconnectorapi.unitsformatenum" class="tsd-kind-icon">unitsFormatEnum</a>
                     <ul>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.unitsformatenum.billions_english" class="tsd-kind-icon">billions_<wbr>english</a>
+                            <a href="api_ref.html#webdataconnectorapi.unitsformatenum.billions_english" class="tsd-kind-icon">billions_english</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.unitsformatenum.billions_standard" class="tsd-kind-icon">billions_<wbr>standard</a>
+                            <a href="api_ref.html#webdataconnectorapi.unitsformatenum.billions_standard" class="tsd-kind-icon">billions_standard</a>
                         </li>
                         <li class=" tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.unitsformatenum.millions" class="tsd-kind-icon">millions</a>
@@ -377,8 +377,8 @@ title: WDC API Reference
         <section class="tsd-panel-group tsd-member-group ">
             <section class="tsd-panel tsd-member tsd-kind-module">
                 <a name="webdataconnectorapi" class="tsd-anchor"></a>
-                <h3>Web<wbr>Data<wbr>ConnectorAPI</h3>
-                <div class="tsd-signature tsd-kind-icon">Web<wbr>Data<wbr>ConnectorAPI<span class="tsd-signature-symbol">:</span> </div>
+                <h3>WebDataConnectorAPI</h3>
+                <div class="tsd-signature tsd-kind-icon">WebDataConnectorAPI: </div>
                 <div class="tsd-comment tsd-typography">
                     <div class="lead">
                         <p>This API Reference contains all of the functions and objects for the WDC API version 2. For a version 1 reference, please consult this page: <a href="http://onlinehelp.Tableau.com/current/api/wdc/en-us/help.htm#WDC/wdc_ref.htm%3FTocPath%3D_____9">WDC V1 Reference</a></p>
@@ -386,8 +386,8 @@ title: WDC API Reference
                 </div>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.columninfo" class="tsd-anchor"></a>
-                    <h3>Column<wbr>Info</h3>
-                    <div class="tsd-signature tsd-kind-icon">Column<wbr>Info<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>ColumnInfo</h3>
+                    <div class="tsd-signature tsd-kind-icon">ColumnInfo: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>Represents metadata about a column in a table.</p>
@@ -395,8 +395,8 @@ title: WDC API Reference
                     </div>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.aggtype" class="tsd-anchor"></a>
-                        <h3>agg<wbr>Type</h3>
-                        <div class="tsd-signature tsd-kind-icon">agg<wbr>Type<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.aggtypeenum" class="tsd-signature-type">aggTypeEnum</a></div>
+                        <h3>aggType</h3>
+                        <div class="tsd-signature tsd-kind-icon">aggType: <a href="api_ref.html#webdataconnectorapi.aggtypeenum" class="tsd-signature-type">aggTypeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default aggregation type for this column.</p>
@@ -406,7 +406,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.alias" class="tsd-anchor"></a>
                         <h3>alias</h3>
-                        <div class="tsd-signature tsd-kind-icon">alias<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">alias: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The user friendly alias of this column. If this property is omitted, the column id will be used.</p>
@@ -415,8 +415,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.columnrole" class="tsd-anchor"></a>
-                        <h3>column<wbr>Role</h3>
-                        <div class="tsd-signature tsd-kind-icon">column<wbr>Role<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.columnroleenum" class="tsd-signature-type">columnRoleEnum</a></div>
+                        <h3>columnRole</h3>
+                        <div class="tsd-signature tsd-kind-icon">columnRole: <a href="api_ref.html#webdataconnectorapi.columnroleenum" class="tsd-signature-type">columnRoleEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default role of this column: dimension or measure.</p>
@@ -425,8 +425,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.columntype" class="tsd-anchor"></a>
-                        <h3>column<wbr>Type</h3>
-                        <div class="tsd-signature tsd-kind-icon">column<wbr>Type<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.columntypeenum" class="tsd-signature-type">columnTypeEnum</a></div>
+                        <h3>columnType</h3>
+                        <div class="tsd-signature tsd-kind-icon">columnType: <a href="api_ref.html#webdataconnectorapi.columntypeenum" class="tsd-signature-type">columnTypeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default type of this column: discrete or continuous.</p>
@@ -435,8 +435,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.datatype" class="tsd-anchor"></a>
-                        <h3>data<wbr>Type</h3>
-                        <div class="tsd-signature tsd-kind-icon">data<wbr>Type<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.datatypeenum" class="tsd-signature-type">dataTypeEnum</a></div>
+                        <h3>dataType</h3>
+                        <div class="tsd-signature tsd-kind-icon">dataType: <a href="api_ref.html#webdataconnectorapi.datatypeenum" class="tsd-signature-type">dataTypeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>The data type of this column.</p>
@@ -446,7 +446,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.description" class="tsd-anchor"></a>
                         <h3>description</h3>
-                        <div class="tsd-signature tsd-kind-icon">description<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">description: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) An optional description of this column.</p>
@@ -454,9 +454,9 @@ title: WDC API Reference
                         </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                        <a name="webdataconnectorapi.columninfo.geographicrole" class="tsd-anchor"></a>
-                        <h3>geo<wbr>Role</h3>
-                        <div class="tsd-signature tsd-kind-icon">geo<wbr>Role<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.geographicroleenum" class="tsd-signature-type">geographicRoleEnum</a></div>
+                        <a name="webdataconnectorapi.columninfo.georole" class="tsd-anchor"></a>
+                        <h3>geoRole</h3>
+                        <div class="tsd-signature tsd-kind-icon">geoRole: <a href="api_ref.html#webdataconnectorapi.geographicroleenum" class="tsd-signature-type">geographicRoleEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default geographic role of this column.</p>
@@ -466,7 +466,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.id" class="tsd-anchor"></a>
                         <h3>id</h3>
-                        <div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">id: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>The id of this column. Column ids must be unique within a table.</p>
@@ -475,8 +475,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.numberformat" class="tsd-anchor"></a>
-                        <h3>number<wbr>Format</h3>
-                        <div class="tsd-signature tsd-kind-icon">number<wbr>Format<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.numberformatenum" class="tsd-signature-type">numberFormatEnum</a></div>
+                        <h3>numberFormat</h3>
+                        <div class="tsd-signature tsd-kind-icon">numberFormat: <a href="api_ref.html#webdataconnectorapi.numberformatenum" class="tsd-signature-type">numberFormatEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default number formatting for this column.</p>
@@ -485,8 +485,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.columninfo.unitsformat" class="tsd-anchor"></a>
-                        <h3>units<wbr>Format</h3>
-                        <div class="tsd-signature tsd-kind-icon">units<wbr>Format<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.unitsformatenum" class="tsd-signature-type">unitsFormatEnum</a></div>
+                        <h3>unitsFormat</h3>
+                        <div class="tsd-signature tsd-kind-icon">unitsFormat: <a href="api_ref.html#webdataconnectorapi.unitsformatenum" class="tsd-signature-type">unitsFormatEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The default units formatting for this column.</p>
@@ -496,9 +496,9 @@ title: WDC API Reference
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.datadonecallback" class="tsd-anchor"></a>
-                    <h3>Data<wbr>Done<wbr>Callback</h3>
+                    <h3>DataDoneCallback</h3>
                     <ul class="tsd-signatures tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                        <li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                        <li class="tsd-signature tsd-kind-icon">__call(): void</li>
                     </ul>
                     <ul class="tsd-descriptions">
                         <li class="tsd-description">
@@ -507,15 +507,15 @@ title: WDC API Reference
                                     <p>Callback function to tell Tableau that the connector has finished gathering data.</p>
                                 </div>
                             </div>
-                            <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                            <h4 class="tsd-returns-title">Returns void</h4>
                         </li>
                     </ul>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.initcallback" class="tsd-anchor"></a>
-                    <h3>Init<wbr>Callback</h3>
+                    <h3>InitCallback</h3>
                     <ul class="tsd-signatures tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                        <li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                        <li class="tsd-signature tsd-kind-icon">__call(): void</li>
                     </ul>
                     <ul class="tsd-descriptions">
                         <li class="tsd-description">
@@ -524,15 +524,15 @@ title: WDC API Reference
                                     <p>Callback function to tell Tableau the connector&#39;s init method has finished.</p>
                                 </div>
                             </div>
-                            <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                            <h4 class="tsd-returns-title">Returns void</h4>
                         </li>
                     </ul>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.schemacallback" class="tsd-anchor"></a>
-                    <h3>Schema<wbr>Callback</h3>
+                    <h3>SchemaCallback</h3>
                     <ul class="tsd-signatures tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                        <li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span>tables<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a><span class="tsd-signature-symbol">&gt;</span>, connections<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-signature-type">StandardConnection</a><span class="tsd-signature-symbol">&gt;</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                        <li class="tsd-signature tsd-kind-icon">__call(tables: Array&lt;<a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a>&gt;, connections: Array&lt;<a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-signature-type">StandardConnection</a>&gt;): void</li>
                     </ul>
                     <ul class="tsd-descriptions">
                         <li class="tsd-description">
@@ -544,21 +544,21 @@ title: WDC API Reference
                             <h4 class="tsd-parameters-title">Parameters</h4>
                             <ul class="tsd-parameters">
                                 <li>
-                                    <h5>tables: <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a><span class="tsd-signature-symbol">&gt;</span></h5>
+                                    <h5>tables: Array&lt;<a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a>&gt;</h5>
                                 </li>
                                 <li>
-                                    <h5>connections: <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><a href="api_ref.html#webdataconnectorapi.standardconnections" class="tsd-signature-type">StandardConnection</a><span class="tsd-signature-symbol">&gt;</span></h5>
+                                    <h5>connections: Array&lt;<a href="api_ref.html#webdataconnectorapi.standardconnections" class="tsd-signature-type">StandardConnection</a>&gt;</h5>
                                 </li>
                             </ul>
-                            <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                            <h4 class="tsd-returns-title">Returns void</h4>
                         </li>
                     </ul>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.shutdowncallback" class="tsd-anchor"></a>
-                    <h3>Shutdown<wbr>Callback</h3>
+                    <h3>ShutdownCallback</h3>
                     <ul class="tsd-signatures tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                        <li class="tsd-signature tsd-kind-icon">__call<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                        <li class="tsd-signature tsd-kind-icon">__call(): void</li>
                     </ul>
                     <ul class="tsd-descriptions">
                         <li class="tsd-description">
@@ -567,14 +567,14 @@ title: WDC API Reference
                                     <p>Callback function to tell Tableau the connector&#39;s shutdown method has finished.</p>
                                 </div>
                             </div>
-                            <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                            <h4 class="tsd-returns-title">Returns void</h4>
                         </li>
                     </ul>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.table" class="tsd-anchor"></a>
                     <h3>Table</h3>
-                    <div class="tsd-signature tsd-kind-icon">Table<span class="tsd-signature-symbol">:</span> </div>
+                    <div class="tsd-signature tsd-kind-icon">Table: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>Object which is used to actually append data when creating an extract.</p>
@@ -582,8 +582,8 @@ title: WDC API Reference
                     </div>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.table.incrementvalue" class="tsd-anchor"></a>
-                        <h3>increment<wbr>Value</h3>
-                        <div class="tsd-signature tsd-kind-icon">increment<wbr>Value<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <h3>incrementValue</h3>
+                        <div class="tsd-signature tsd-kind-icon">incrementValue: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>If this is an incremental refresh and the table supports incremental refreshes, this property will contain the largest value from the incrementColumn in the current extract. This value will be an empty string otherwise. See <a href="{{ site.baseurl }}/docs/wdc_incremental_refresh">Incremental Refresh</a> for details.</p>
@@ -592,8 +592,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.table.tableinfo" class="tsd-anchor"></a>
-                        <h3>table<wbr>Info</h3>
-                        <div class="tsd-signature tsd-kind-icon">table<wbr>Info<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a></div>
+                        <h3>tableInfo</h3>
+                        <div class="tsd-signature tsd-kind-icon">tableInfo: <a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>The metadata about this table</p>
@@ -602,9 +602,9 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.table.appendrows" class="tsd-anchor"></a>
-                        <h3>append<wbr>Rows</h3>
+                        <h3>appendRows</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">append<wbr>Rows<span class="tsd-signature-symbol">(</span>rows<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">&gt;</span><span class="tsd-signature-symbol">&gt;</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">any</span></li>
+                            <li class="tsd-signature tsd-kind-icon">appendRows(rows: Array&lt;Array&lt;any&gt;&gt;): any</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -616,18 +616,18 @@ title: WDC API Reference
                                 <h4 class="tsd-parameters-title">Parameters</h4>
                                 <ul class="tsd-parameters">
                                     <li>
-                                        <h5>rows: <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><span class="tsd-signature-type">any</span><span class="tsd-signature-symbol">&gt;</span><span class="tsd-signature-symbol">&gt;</span></h5>
+                                        <h5>rows: Array&lt;Array&lt;any&gt;&gt;</h5>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">any</span></h4>
+                                <h4 class="tsd-returns-title">Returns any</h4>
                             </li>
                         </ul>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.tableinfo-1" class="tsd-anchor"></a>
-                    <h3>Table<wbr>Info</h3>
-                    <div class="tsd-signature tsd-kind-icon">Table<wbr>Info<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>TableInfo</h3>
+                    <div class="tsd-signature tsd-kind-icon">TableInfo: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>Represents metadata about a table of data</p>
@@ -636,7 +636,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableinfo-1.columns" class="tsd-anchor"></a>
                         <h3>columns</h3>
-                        <div class="tsd-signature tsd-kind-icon">columns<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Array</span><span class="tsd-signature-symbol">&lt;</span><a href="api_ref.html#webdataconnectorapi.columninfo" class="tsd-signature-type">ColumnInfo</a><span class="tsd-signature-symbol">&gt;</span></div>
+                        <div class="tsd-signature tsd-kind-icon">columns: Array&lt;<a href="api_ref.html#webdataconnectorapi.columninfo" class="tsd-signature-type">ColumnInfo</a>&gt;</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>An array of columns that belong to this table.</p>
@@ -645,8 +645,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableinfo-1.defaultalias" class="tsd-anchor"></a>
-                        <h3>default<wbr>Alias</h3>
-                        <div class="tsd-signature tsd-kind-icon">default<wbr>Alias<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <h3>defaultAlias</h3>
+                        <div class="tsd-signature tsd-kind-icon">defaultAlias: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) An alias for this table to be shown to the user. This alias is editable by the user and must be unique across all tables used in a join. If this property is omitted, the table id will be used.</p>
@@ -656,7 +656,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableinfo-1.description-1" class="tsd-anchor"></a>
                         <h3>description</h3>
-                        <div class="tsd-signature tsd-kind-icon">description<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">description: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) A user friendly description of the contents in this table.</p>
@@ -666,7 +666,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableinfo-1.id-1" class="tsd-anchor"></a>
                         <h3>id</h3>
-                        <div class="tsd-signature tsd-kind-icon">id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">id: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>A unique id for this particular table.</p>
@@ -675,8 +675,8 @@ title: WDC API Reference
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableinfo-1.incrementcolumnid" class="tsd-anchor"></a>
-                        <h3>increment<wbr>Column<wbr>Id</h3>
-                        <div class="tsd-signature tsd-kind-icon">increment<wbr>Column<wbr>Id<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <h3>incrementColumnId</h3>
+                        <div class="tsd-signature tsd-kind-icon">incrementColumnId: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>(Optional) The id of the column which can be used for incremental refreshes. Must be an int, date, or datetime column. See <a href="{{ site.baseurl }}/docs/wdc_incremental_refresh">Incremental Refresh</a> for details.</p>
@@ -686,8 +686,8 @@ title: WDC API Reference
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.standardconnection" class="tsd-anchor"></a>
-                    <h3>Standard<wbr>Connection</h3>
-                    <div class="tsd-signature tsd-kind-icon">Standard<wbr>Connection<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>StandardConnection</h3>
+                    <div class="tsd-signature tsd-kind-icon">StandardConnection: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>The metadata for standard connections, or predefined joins.</p>
@@ -696,7 +696,7 @@ title: WDC API Reference
 					<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.standardconnection.alias" class="tsd-anchor"></a>
                         <h3>alias</h3>
-                        <div class="tsd-signature tsd-kind-icon">alias<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">string</span></div>
+                        <div class="tsd-signature tsd-kind-icon">alias: string</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>An alias for the standard connection. This is the name of the connection that is
@@ -707,7 +707,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.standardconnection.tables" class="tsd-anchor"></a>
                         <h3>tables</h3>
-                        <div class="tsd-signature tsd-kind-icon">tables<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">array</span></div>
+                        <div class="tsd-signature tsd-kind-icon">tables: array</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Specifies the tables that you want to join. The table properties must match the properties defined in the table schema.</p>
@@ -730,7 +730,7 @@ title: WDC API Reference
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.standardconnection.joins" class="tsd-anchor"></a>
                         <h3>joins</h3>
-                        <div class="tsd-signature tsd-kind-icon">joins<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">array</span></div>
+                        <div class="tsd-signature tsd-kind-icon">joins: array</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>An array of join objects which defines the order of the tables and the join type. Each join object takes the following form:</p>
@@ -785,8 +785,8 @@ var standardConnection = {
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.webdataconnector" class="tsd-anchor"></a>
-                    <h3>Web<wbr>Data<wbr>Connector</h3>
-                    <div class="tsd-signature tsd-kind-icon">Web<wbr>Data<wbr>Connector<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>WebDataConnector</h3>
+                    <div class="tsd-signature tsd-kind-icon">WebDataConnector: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This is the actual interface a WDC will be asked to implement. init and shutdown are optional and will be filled in automatically if a connector does not implement these.</p>
@@ -794,9 +794,9 @@ var standardConnection = {
                     </div>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.webdataconnector.getdata" class="tsd-anchor"></a>
-                        <h3>get<wbr>Data</h3>
+                        <h3>getData</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">get<wbr>Data<span class="tsd-signature-symbol">(</span>table<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.table" class="tsd-signature-type">Table</a>, doneCallback<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.datadonecallback" class="tsd-signature-type">DataDoneCallback</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">getData(table: <a href="api_ref.html#webdataconnectorapi.table" class="tsd-signature-type">Table</a>, doneCallback: <a href="api_ref.html#webdataconnectorapi.datadonecallback" class="tsd-signature-type">DataDoneCallback</a>): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -817,15 +817,15 @@ var standardConnection = {
                                         </div>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.webdataconnector.getschema" class="tsd-anchor"></a>
-                        <h3>get<wbr>Schema</h3>
+                        <h3>getSchema</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">get<wbr>Schema<span class="tsd-signature-symbol">(</span>schemaCallback<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.schemacallback" class="tsd-signature-type">SchemaCallback</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">getSchema(schemaCallback: <a href="api_ref.html#webdataconnectorapi.schemacallback" class="tsd-signature-type">SchemaCallback</a>): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -843,7 +843,7 @@ var standardConnection = {
                                         </div>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
@@ -851,7 +851,7 @@ var standardConnection = {
                         <a name="webdataconnectorapi.webdataconnector.init" class="tsd-anchor"></a>
                         <h3>init</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">init<span class="tsd-signature-symbol">(</span>initCallback<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.initcallback" class="tsd-signature-type">InitCallback</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">init(initCallback: <a href="api_ref.html#webdataconnectorapi.initcallback" class="tsd-signature-type">InitCallback</a>): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -866,7 +866,7 @@ var standardConnection = {
                                         <h5>initCallback: <a href="api_ref.html#webdataconnectorapi.initcallback" class="tsd-signature-type">InitCallback</a></h5>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
@@ -874,7 +874,7 @@ var standardConnection = {
                         <a name="webdataconnectorapi.webdataconnector.shutdown" class="tsd-anchor"></a>
                         <h3>shutdown</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">shutdown<span class="tsd-signature-symbol">(</span>shutdownCallback<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-signature-type">ShutdownCallback</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">shutdown(shutdownCallback: <a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-signature-type">ShutdownCallback</a>): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -889,7 +889,7 @@ var standardConnection = {
                                         <h5>shutdownCallback: <a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-signature-type">ShutdownCallback</a></h5>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
@@ -897,7 +897,7 @@ var standardConnection = {
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.tableau" class="tsd-anchor"></a>
                     <h3>tableau</h3>
-                    <div class="tsd-signature tsd-kind-icon">tableau<span class="tsd-signature-symbol">:</span> </div>
+                    <div class="tsd-signature tsd-kind-icon">tableau: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>The tableau object represents state and functionality of the Tableau product.</p>
@@ -905,8 +905,8 @@ var standardConnection = {
                     </div>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.authpurpose" class="tsd-anchor"></a>
-                        <h3>auth<wbr>Purpose</h3>
-                        <div class="tsd-signature tsd-kind-icon">auth<wbr>Purpose<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.authpurposeenum" class="tsd-signature-type">authPurposeEnum</a></div>
+                        <h3>authPurpose</h3>
+                        <div class="tsd-signature tsd-kind-icon">authPurpose: <a href="api_ref.html#webdataconnectorapi.authpurposeenum" class="tsd-signature-type">authPurposeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current context of auth. See <a href="{{ site.baseurl }}/docs/wdc_authentication">WDC Authentication</a> for details.</p>
@@ -915,8 +915,8 @@ var standardConnection = {
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.authtype" class="tsd-anchor"></a>
-                        <h3>auth<wbr>Type</h3>
-                        <div class="tsd-signature tsd-kind-icon">auth<wbr>Type<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.authtypeenum" class="tsd-signature-type">authTypeEnum</a></div>
+                        <h3>authType</h3>
+                        <div class="tsd-signature tsd-kind-icon">authType: <a href="api_ref.html#webdataconnectorapi.authtypeenum" class="tsd-signature-type">authTypeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current type of authentication for this connector.</p>
@@ -925,8 +925,8 @@ var standardConnection = {
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.connectiondata" class="tsd-anchor"></a>
-                        <h3>connection<wbr>Data</h3>
-                        <div class="tsd-signature tsd-kind-icon">connection<wbr>Data<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Object</span></div>
+                        <h3>connectionData</h3>
+                        <div class="tsd-signature tsd-kind-icon">connectionData: Object</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Object used to pass non-secret connector state between phases.</p>
@@ -935,8 +935,8 @@ var standardConnection = {
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.connectionname" class="tsd-anchor"></a>
-                        <h3>connection<wbr>Name</h3>
-                        <div class="tsd-signature tsd-kind-icon">connection<wbr>Name<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">String</span></div>
+                        <h3>connectionName</h3>
+                        <div class="tsd-signature tsd-kind-icon">connectionName: String</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Name of this connection.</p>
@@ -946,7 +946,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.locale" class="tsd-anchor"></a>
                         <h3>locale</h3>
-                        <div class="tsd-signature tsd-kind-icon">locale<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">String</span></div>
+                        <div class="tsd-signature tsd-kind-icon">locale: String</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current locale, or locale with most similar language, of the web data connector user</p>
@@ -956,7 +956,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.password" class="tsd-anchor"></a>
                         <h3>password</h3>
-                        <div class="tsd-signature tsd-kind-icon">password<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">Object</span></div>
+                        <div class="tsd-signature tsd-kind-icon">password: Object</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>You can use this property to store a password, OAuth authentication token, or other secret This property can be a JSON object and is not written to disk.</p>
@@ -966,7 +966,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.phase" class="tsd-anchor"></a>
                         <h3>phase</h3>
-                        <div class="tsd-signature tsd-kind-icon">phase<span class="tsd-signature-symbol">:</span> <a href="api_ref.html#webdataconnectorapi.phaseenum" class="tsd-signature-type">phaseEnum</a></div>
+                        <div class="tsd-signature tsd-kind-icon">phase: <a href="api_ref.html#webdataconnectorapi.phaseenum" class="tsd-signature-type">phaseEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current phase of the web data connector.</p>
@@ -976,7 +976,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.username" class="tsd-anchor"></a>
                         <h3>username</h3>
-                        <div class="tsd-signature tsd-kind-icon">username<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">String</span></div>
+                        <div class="tsd-signature tsd-kind-icon">username: String</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Username tied to data source, persisted in a .twb, .twbx, etc.</p>
@@ -986,7 +986,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.version" class="tsd-anchor"></a>
                         <h3>version</h3>
-                        <div class="tsd-signature tsd-kind-icon">version<span class="tsd-signature-symbol">:</span> <span class="tsd-signature-type">String</span></div>
+                        <div class="tsd-signature tsd-kind-icon">version: String</div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current version of the Web Data Connector API</p>
@@ -995,9 +995,9 @@ var standardConnection = {
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.abortforauth" class="tsd-anchor"></a>
-                        <h3>abort<wbr>For<wbr>Auth</h3>
+                        <h3>abortForAuth</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">abort<wbr>For<wbr>Auth<span class="tsd-signature-symbol">(</span>errorMessage<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">abortForAuth(errorMessage: string): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1009,21 +1009,21 @@ var standardConnection = {
                                 <h4 class="tsd-parameters-title">Parameters</h4>
                                 <ul class="tsd-parameters">
                                     <li>
-                                        <h5>errorMessage: <span class="tsd-signature-type">string</span></h5>
+                                        <h5>errorMessage: string</h5>
                                         <div class="tsd-comment tsd-typography">
                                             <p>message which only shows up in logs and on Tableau Server.</p>
                                         </div>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.abortwitherror" class="tsd-anchor"></a>
-                        <h3>abort<wbr>With<wbr>Error</h3>
+                        <h3>abortWithError</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">abort<wbr>With<wbr>Error<span class="tsd-signature-symbol">(</span>errorMessage<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">abortWithError(errorMessage: string): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1035,13 +1035,13 @@ var standardConnection = {
                                 <h4 class="tsd-parameters-title">Parameters</h4>
                                 <ul class="tsd-parameters">
                                     <li>
-                                        <h5>errorMessage: <span class="tsd-signature-type">string</span></h5>
+                                        <h5>errorMessage: string</h5>
                                         <div class="tsd-comment tsd-typography">
                                             <p>message to display to the user in Tableau.</p>
                                         </div>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
@@ -1049,7 +1049,7 @@ var standardConnection = {
                         <a name="webdataconnectorapi.tableau.log" class="tsd-anchor"></a>
                         <h3>log</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">log<span class="tsd-signature-symbol">(</span>logMessage<span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">string</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">log(logMessage: string): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1061,18 +1061,18 @@ var standardConnection = {
                                 <h4 class="tsd-parameters-title">Parameters</h4>
                                 <ul class="tsd-parameters">
                                     <li>
-                                        <h5>logMessage: <span class="tsd-signature-type">string</span></h5>
+                                        <h5>logMessage: string</h5>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.makeconnector" class="tsd-anchor"></a>
-                        <h3>make<wbr>Connector</h3>
+                        <h3>makeConnector</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">make<wbr>Connector<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-signature-type">WebDataConnector</a></li>
+                            <li class="tsd-signature tsd-kind-icon">makeConnector(): <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-signature-type">WebDataConnector</a></li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1087,9 +1087,9 @@ var standardConnection = {
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.registerconnector" class="tsd-anchor"></a>
-                        <h3>register<wbr>Connector</h3>
+                        <h3>registerConnector</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">register<wbr>Connector<span class="tsd-signature-symbol">(</span>connector<span class="tsd-signature-symbol">: </span><a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-signature-type">WebDataConnector</a><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">registerConnector(connector: <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-signature-type">WebDataConnector</a>): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1104,7 +1104,7 @@ var standardConnection = {
                                         <h5>connector: <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-signature-type">WebDataConnector</a></h5>
                                     </li>
                                 </ul>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
@@ -1112,7 +1112,7 @@ var standardConnection = {
                         <a name="webdataconnectorapi.tableau.submit" class="tsd-anchor"></a>
                         <h3>submit</h3>
                         <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
-                            <li class="tsd-signature tsd-kind-icon">submit<span class="tsd-signature-symbol">(</span><span class="tsd-signature-symbol">)</span><span class="tsd-signature-symbol">: </span><span class="tsd-signature-type">void</span></li>
+                            <li class="tsd-signature tsd-kind-icon">submit(): void</li>
                         </ul>
                         <ul class="tsd-descriptions">
                             <li class="tsd-description">
@@ -1121,15 +1121,15 @@ var standardConnection = {
                                         <p>Tells Tableau that the connector has finished the interactive phase or the authentication phase. After this method is called, Tableau proceeds to the gather data phase.</p>
                                     </div>
                                 </div>
-                                <h4 class="tsd-returns-title">Returns <span class="tsd-signature-type">void</span></h4>
+                                <h4 class="tsd-returns-title">Returns void</h4>
                             </li>
                         </ul>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.aggtypeenum" class="tsd-anchor"></a>
-                    <h3>agg<wbr>Type<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">agg<wbr>Type<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>aggTypeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">aggTypeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the default aggregation that can optionally be assigned as metadata for columns of the int and float dataType.</p>
@@ -1138,33 +1138,33 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.aggtypeenum.avg" class="tsd-anchor"></a>
                         <h3>avg</h3>
-                        <div class="tsd-signature tsd-kind-icon">avg<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">avg: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.aggtypeenum.count" class="tsd-anchor"></a>
                         <h3>count</h3>
-                        <div class="tsd-signature tsd-kind-icon">count<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">count: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.aggtypeenum.count_dist" class="tsd-anchor"></a>
-                        <h3>count_<wbr>dist</h3>
-                        <div class="tsd-signature tsd-kind-icon">count_<wbr>dist<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>count_dist</h3>
+                        <div class="tsd-signature tsd-kind-icon">count_dist: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.aggtypeenum.median" class="tsd-anchor"></a>
                         <h3>median</h3>
-                        <div class="tsd-signature tsd-kind-icon">median<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">median: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.aggtypeenum.sum" class="tsd-anchor"></a>
                         <h3>sum</h3>
-                        <div class="tsd-signature tsd-kind-icon">sum<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">sum: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.authpurposeenum" class="tsd-anchor"></a>
-                    <h3>auth<wbr>Purpose<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">auth<wbr>Purpose<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>authPurposeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">authPurposeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the context in which authentication is being requested. See <a href="{{ site.baseurl }}/docs/wdc_authentication">WDC Authentication</a> for details.</p>
@@ -1173,18 +1173,18 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.authpurposeenum.enduring" class="tsd-anchor"></a>
                         <h3>enduring</h3>
-                        <div class="tsd-signature tsd-kind-icon">enduring<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">enduring: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.authpurposeenum.ephemeral" class="tsd-anchor"></a>
                         <h3>ephemeral</h3>
-                        <div class="tsd-signature tsd-kind-icon">ephemeral<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">ephemeral: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.authtypeenum" class="tsd-anchor"></a>
-                    <h3>auth<wbr>Type<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">auth<wbr>Type<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>authTypeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">authTypeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the authentication type of the web data connector. See <a href="{{ site.baseurl }}/docs/wdc_authentication">WDC Authentication</a> for details.</p>
@@ -1193,23 +1193,23 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.authtypeenum.basic" class="tsd-anchor"></a>
                         <h3>basic</h3>
-                        <div class="tsd-signature tsd-kind-icon">basic<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">basic: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.authtypeenum.custom" class="tsd-anchor"></a>
                         <h3>custom</h3>
-                        <div class="tsd-signature tsd-kind-icon">custom<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">custom: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.authtypeenum.none" class="tsd-anchor"></a>
                         <h3>none</h3>
-                        <div class="tsd-signature tsd-kind-icon">none<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">none: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.columnroleenum" class="tsd-anchor"></a>
-                    <h3>column<wbr>Role<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">column<wbr>Role<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>columnRoleEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">columnRoleEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the default role of a column.</p>
@@ -1218,18 +1218,18 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.columnroleenum.dimension" class="tsd-anchor"></a>
                         <h3>dimension</h3>
-                        <div class="tsd-signature tsd-kind-icon">dimension<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">dimension: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.columnroleenum.measure" class="tsd-anchor"></a>
                         <h3>measure</h3>
-                        <div class="tsd-signature tsd-kind-icon">measure<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">measure: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.columntypeenum" class="tsd-anchor"></a>
-                    <h3>column<wbr>Type<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">column<wbr>Type<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>columnTypeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">columnTypeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the default type of a column.</p>
@@ -1238,18 +1238,18 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.columntypeenum.continuous" class="tsd-anchor"></a>
                         <h3>continuous</h3>
-                        <div class="tsd-signature tsd-kind-icon">continuous<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">continuous: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.columntypeenum.discrete" class="tsd-anchor"></a>
                         <h3>discrete</h3>
-                        <div class="tsd-signature tsd-kind-icon">discrete<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">discrete: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.datatypeenum" class="tsd-anchor"></a>
-                    <h3>data<wbr>Type<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">data<wbr>Type<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>dataTypeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">dataTypeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This Enum represents the different data types available to each column</p>
@@ -1258,38 +1258,38 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.bool" class="tsd-anchor"></a>
                         <h3>bool</h3>
-                        <div class="tsd-signature tsd-kind-icon">bool<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">bool: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.date" class="tsd-anchor"></a>
                         <h3>date</h3>
-                        <div class="tsd-signature tsd-kind-icon">date<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">date: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.datetime" class="tsd-anchor"></a>
                         <h3>datetime</h3>
-                        <div class="tsd-signature tsd-kind-icon">datetime<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">datetime: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.float" class="tsd-anchor"></a>
                         <h3>float</h3>
-                        <div class="tsd-signature tsd-kind-icon">float<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">float: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.int" class="tsd-anchor"></a>
                         <h3>int</h3>
-                        <div class="tsd-signature tsd-kind-icon">int<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">int: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.datatypeenum.string" class="tsd-anchor"></a>
                         <h3>string</h3>
-                        <div class="tsd-signature tsd-kind-icon">string<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">string: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.geographicroleenum" class="tsd-anchor"></a>
-                    <h3>geographic<wbr>Role<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">geographic<wbr>Role<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>geographicRoleEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">geographicRoleEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the default geographic role that can be assigned to a column.</p>
@@ -1297,49 +1297,49 @@ var standardConnection = {
                     </div>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.area_code" class="tsd-anchor"></a>
-                        <h3>area_<wbr>code</h3>
-                        <div class="tsd-signature tsd-kind-icon">area_<wbr>code<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>area_code</h3>
+                        <div class="tsd-signature tsd-kind-icon">area_code: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.cbsa_msa" class="tsd-anchor"></a>
-                        <h3>cbsa_<wbr>msa</h3>
-                        <div class="tsd-signature tsd-kind-icon">cbsa_<wbr>msa<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>cbsa_msa</h3>
+                        <div class="tsd-signature tsd-kind-icon">cbsa_msa: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.city" class="tsd-anchor"></a>
                         <h3>city</h3>
-                        <div class="tsd-signature tsd-kind-icon">city<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">city: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.congressional_district" class="tsd-anchor"></a>
-                        <h3>congressional_<wbr>district</h3>
-                        <div class="tsd-signature tsd-kind-icon">congressional_<wbr>district<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>congressional_district</h3>
+                        <div class="tsd-signature tsd-kind-icon">congressional_district: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.country_region" class="tsd-anchor"></a>
-                        <h3>country_<wbr>region</h3>
-                        <div class="tsd-signature tsd-kind-icon">country_<wbr>region<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>country_region</h3>
+                        <div class="tsd-signature tsd-kind-icon">country_region: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.county" class="tsd-anchor"></a>
                         <h3>county</h3>
-                        <div class="tsd-signature tsd-kind-icon">county<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">county: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.state_province" class="tsd-anchor"></a>
-                        <h3>state_<wbr>province</h3>
-                        <div class="tsd-signature tsd-kind-icon">state_<wbr>province<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>state_province</h3>
+                        <div class="tsd-signature tsd-kind-icon">state_province: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.geographicroleenum.zip_code_postcode" class="tsd-anchor"></a>
-                        <h3>zip_<wbr>code_<wbr>postcode</h3>
-                        <div class="tsd-signature tsd-kind-icon">zip_<wbr>code_<wbr>postcode<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>zip_code_postcode</h3>
+                        <div class="tsd-signature tsd-kind-icon">zip_code_postcode: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.localeenum" class="tsd-anchor"></a>
-                    <h3>locale<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">locale<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>localeEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">localeEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the locale, or the locale with the most similar language, of the of the web data connector user.</p>
@@ -1348,48 +1348,48 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.america" class="tsd-anchor"></a>
                         <h3>america</h3>
-                        <div class="tsd-signature tsd-kind-icon">en-us<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">en-us: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.brazil" class="tsd-anchor"></a>
                         <h3>brazil</h3>
-                        <div class="tsd-signature tsd-kind-icon">pt-br<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">pt-br: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.china" class="tsd-anchor"></a>
                         <h3>china</h3>
-                        <div class="tsd-signature tsd-kind-icon">zh-cn<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">zh-cn: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.france" class="tsd-anchor"></a>
                         <h3>france</h3>
-                        <div class="tsd-signature tsd-kind-icon">fr-fr<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">fr-fr: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.germany" class="tsd-anchor"></a>
                         <h3>germany</h3>
-                        <div class="tsd-signature tsd-kind-icon">de-de<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">de-de: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.japan" class="tsd-anchor"></a>
                         <h3>japan</h3>
-                        <div class="tsd-signature tsd-kind-icon">ja-jp<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">ja-jp: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.korea" class="tsd-anchor"></a>
                         <h3>korea</h3>
-                        <div class="tsd-signature tsd-kind-icon">ko-kr<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">ko-kr: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.localeenum.spain" class="tsd-anchor"></a>
                         <h3>spain</h3>
-                        <div class="tsd-signature tsd-kind-icon">es-es<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">es-es: </div>
                     </section>
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.numberformatenum" class="tsd-anchor"></a>
-                    <h3>number<wbr>Format<wbr>Enum</h3>
-                    <div class="tsd-signature tsd-kind-icon">number<wbr>Format<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                    <h3>numberFormatEnum</h3>
+                    <div class="tsd-signature tsd-kind-icon">numberFormatEnum: </div>
                     <div class="tsd-comment tsd-typography">
                         <div class="lead">
                             <p>This enum represents the default number format that can optionally be assigned as metadata for columns of the int and float dataType.</p>
@@ -1398,27 +1398,27 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.numberformatenum.currency" class="tsd-anchor"></a>
                         <h3>currency</h3>
-                        <div class="tsd-signature tsd-kind-icon">currency<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">currency: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.numberformatenum.number" class="tsd-anchor"></a>
                         <h3>number</h3>
-                        <div class="tsd-signature tsd-kind-icon">number<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">number: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.numberformatenum.percentage" class="tsd-anchor"></a>
                         <h3>percentage</h3>
-                        <div class="tsd-signature tsd-kind-icon">percentage<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">percentage: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                         <a name="webdataconnectorapi.numberformatenum.scientific" class="tsd-anchor"></a>
                         <h3>scientific</h3>
-                        <div class="tsd-signature tsd-kind-icon">scientific<span class="tsd-signature-symbol">:</span> </div>
+                        <div class="tsd-signature tsd-kind-icon">scientific: </div>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                         <a name="webdataconnectorapi.phaseenum" class="tsd-anchor"></a>
-                        <h3>phase<wbr>Enum</h3>
-                        <div class="tsd-signature tsd-kind-icon">phase<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>phaseEnum</h3>
+                        <div class="tsd-signature tsd-kind-icon">phaseEnum: </div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>This enum represents the different phases in which a web data connector can be run. See <a href="{{ site.baseurl }}/docs/wdc_phases">WDC Lifecycle and Phases</a> for details.</p>
@@ -1426,24 +1426,24 @@ var standardConnection = {
                         </div>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.phaseenum.authphase" class="tsd-anchor"></a>
-                            <h3>auth<wbr>Phase</h3>
-                            <div class="tsd-signature tsd-kind-icon">auth<wbr>Phase<span class="tsd-signature-symbol">:</span> </div>
+                            <h3>authPhase</h3>
+                            <div class="tsd-signature tsd-kind-icon">authPhase: </div>
                         </section>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.phaseenum.gatherdataphase" class="tsd-anchor"></a>
-                            <h3>gather<wbr>Data<wbr>Phase</h3>
-                            <div class="tsd-signature tsd-kind-icon">gather<wbr>Data<wbr>Phase<span class="tsd-signature-symbol">:</span> </div>
+                            <h3>gatherDataPhase</h3>
+                            <div class="tsd-signature tsd-kind-icon">gatherDataPhase: </div>
                         </section>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.phaseenum.interactivephase" class="tsd-anchor"></a>
-                            <h3>interactive<wbr>Phase</h3>
-                            <div class="tsd-signature tsd-kind-icon">interactive<wbr>Phase<span class="tsd-signature-symbol">:</span> </div>
+                            <h3>interactivePhase</h3>
+                            <div class="tsd-signature tsd-kind-icon">interactivePhase: </div>
                         </section>
                     </section>
                     <section class="tsd-panel tsd-member tsd-kind-enum tsd-parent-kind-module tsd-is-not-exported">
                         <a name="webdataconnectorapi.unitsformatenum" class="tsd-anchor"></a>
-                        <h3>units<wbr>Format<wbr>Enum</h3>
-                        <div class="tsd-signature tsd-kind-icon">units<wbr>Format<wbr>Enum<span class="tsd-signature-symbol">:</span> </div>
+                        <h3>unitsFormatEnum</h3>
+                        <div class="tsd-signature tsd-kind-icon">unitsFormatEnum: </div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>This enum represents the default unit format that can optionally be assigned as metadata for columns of the int and float dataType.</p>
@@ -1451,23 +1451,23 @@ var standardConnection = {
                         </div>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.unitsformatenum.billions_english" class="tsd-anchor"></a>
-                            <h3>billions_<wbr>english</h3>
-                            <div class="tsd-signature tsd-kind-icon">billions_<wbr>english<span class="tsd-signature-symbol">:</span> </div>
+                            <h3>billions_english</h3>
+                            <div class="tsd-signature tsd-kind-icon">billions_english: </div>
                         </section>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.unitsformatenum.billions_standard" class="tsd-anchor"></a>
-                            <h3>billions_<wbr>standard</h3>
-                            <div class="tsd-signature tsd-kind-icon">billions_<wbr>standard<span class="tsd-signature-symbol">:</span> </div>
+                            <h3>billions_standard</h3>
+                            <div class="tsd-signature tsd-kind-icon">billions_standard: </div>
                         </section>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.unitsformatenum.millions" class="tsd-anchor"></a>
                             <h3>millions</h3>
-                            <div class="tsd-signature tsd-kind-icon">millions<span class="tsd-signature-symbol">:</span> </div>
+                            <div class="tsd-signature tsd-kind-icon">millions: </div>
                         </section>
                         <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
                             <a name="webdataconnectorapi.unitsformatenum.thousands" class="tsd-anchor"></a>
                             <h3>thousands</h3>
-                            <div class="tsd-signature tsd-kind-icon">thousands<span class="tsd-signature-symbol">:</span> </div>
+                            <div class="tsd-signature tsd-kind-icon">thousands: </div>
                         </section>
                     </section>
                 </section>
