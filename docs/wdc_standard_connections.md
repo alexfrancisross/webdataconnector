@@ -9,6 +9,15 @@ the tables in Tableau Desktop. Tableau Desktop supports left and inner joins for
 Before you create a standard connection, ensure that you have a working web data connector for your tables. For more information
 on getting data from multiple tables, see the [Multiple Tables Tutorial]({{ site.baseurl }}/docs/wdc_multi_table_tutorial).
 
+Once you have a working connector for multiple tables, complete the following steps to create and use standard connections:
+
+* TOC
+{:toc}
+
+<div class="alert alert-info">
+    <b>Important:</b> Standard connections are only supported in WDC versions 2.1 and later.
+</div>
+
 ## Create the connection objects
 
 For every two tables in a web data connector that you want to join, you need to create a connection object. A connection
