@@ -1043,7 +1043,7 @@ var standardConnection = {
                                 the version matches the following syntax:</p>
                                 <p><code>major.minor.patch</code></p>
                                 <p>For example, you might see the following version:</p>
-                                <p></code>10.1.0</code></p>
+                                <p><code>10.1.0</code></p>
                             </div>
                         </div>
                     </section>
