@@ -177,6 +177,9 @@ title: WDC API Reference
                             <a href="api_ref.html#webdataconnectorapi.tableau.registerconnector" class="tsd-kind-icon">registerConnector</a>
                         </li>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.tableau.reportProgress" class="tsd-kind-icon">reportProgress</a>
+                        </li>
+                        <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.submit" class="tsd-kind-icon">submit</a>
                         </li>
                     </ul>
@@ -1101,7 +1104,7 @@ var standardConnection = {
                             <li class="tsd-description">
                                 <div class="tsd-comment tsd-typography">
                                     <div class="lead">
-                                        <p>Throws an error within Tableau with the passed errorMsessage</p>
+                                        <p>Throws an error within Tableau with the passed errorMessage</p>
                                     </div>
                                 </div>
                                 <h4 class="tsd-parameters-title">Parameters</h4>
@@ -1177,6 +1180,39 @@ var standardConnection = {
                                     </li>
                                 </ul>
                                 <h4 class="tsd-returns-title">Returns void</h4>
+                            </li>
+                        </ul>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.tableau.reportProgress" class="tsd-anchor"></a>
+                        <h3>reportProgress</h3>
+                        <ul class="tsd-signatures tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
+                            <li class="tsd-signature tsd-kind-icon">reportProgress(progressMessage: string): void</li>
+                        </ul>
+                        <ul class="tsd-descriptions">
+                            <li class="tsd-description">
+                                <div class="tsd-comment tsd-typography">
+                                    <div class="lead">
+                                        <p>Displays a progress message to the user.</p>
+                                    </div>
+                                </div>
+                                <h4 class="tsd-parameters-title">Parameters</h4>
+                                <ul class="tsd-parameters">
+                                    <li>
+                                        <h5>progressMessage: string</h5>
+                                    </li>
+                                </ul>
+                                <h4 class="tsd-returns-title">Returns void</h4>
+
+                                <section class="tsd-panel tsd-member tsd-kind-enum-member tsd-parent-kind-enum tsd-is-not-exported">
+                                    <h4>Example</h4>
+                                    <p>In the <code>getData</code> function of your connector, you iterate over the rows in a table where each row has an index value assigned to a variable called <code>row_index</code>. You use the following code to display a progress message after every 100 rows:</p>
+<pre>
+if (row_index % 100 === 0) {
+	tableau.reportProgress("Getting row: " + row_index);
+}
+</pre>
+                                </section>
                             </li>
                         </ul>
                     </section>
