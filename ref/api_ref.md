@@ -55,6 +55,20 @@ title: WDC API Reference
                     <a href="api_ref.html#webdataconnectorapi.shutdowncallback" class="tsd-kind-icon">ShutdownCallback</a>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
+                    <a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-kind-icon">StandardConnection</a>
+                    <ul>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.standardconnection.alias" class="tsd-kind-icon">alias</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.standardconnection.tables" class="tsd-kind-icon">tables</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.standardconnection.joins" class="tsd-kind-icon">joins</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a href="api_ref.html#webdataconnectorapi.table" class="tsd-kind-icon">Table</a>
                     <ul>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
@@ -89,20 +103,6 @@ title: WDC API Reference
                     </ul>
                 </li>
                 <li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-kind-icon">StandardConnection</a>
-                    <ul>
-                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.standardconnection.alias" class="tsd-kind-icon">alias</a>
-                        </li>
-                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.standardconnection.tables" class="tsd-kind-icon">tables</a>
-                        </li>
-                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                            <a href="api_ref.html#webdataconnectorapi.standardconnection.joins" class="tsd-kind-icon">joins</a>
-                        </li>
-                    </ul>
-                </li>
-				<li class=" tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a href="api_ref.html#webdataconnectorapi.webdataconnector" class="tsd-kind-icon">WebDataConnector</a>
                     <ul>
                         <li class=" tsd-kind-method tsd-parent-kind-interface tsd-is-not-exported">
@@ -142,6 +142,18 @@ title: WDC API Reference
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.phase" class="tsd-kind-icon">phase</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.tableau.platformBuildNumber" class="tsd-kind-icon">platformBuild<wbr>Number</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.tableau.platformEdition" class="tsd-kind-icon">platformEdition</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.tableau.platformOs" class="tsd-kind-icon">platformOs</a>
+                        </li>
+                        <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                            <a href="api_ref.html#webdataconnectorapi.tableau.platformVersion" class="tsd-kind-icon">platformVersion</a>
                         </li>
                         <li class=" tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                             <a href="api_ref.html#webdataconnectorapi.tableau.username" class="tsd-kind-icon">username</a>
@@ -547,7 +559,7 @@ title: WDC API Reference
                                     <h5>tables: Array&lt;<a href="api_ref.html#webdataconnectorapi.tableinfo-1" class="tsd-signature-type">TableInfo</a>&gt;</h5>
                                 </li>
                                 <li>
-                                    <h5>connections: Array&lt;<a href="api_ref.html#webdataconnectorapi.standardconnections" class="tsd-signature-type">StandardConnection</a>&gt;</h5>
+                                    <h5>connections: Array&lt;<a href="api_ref.html#webdataconnectorapi.standardconnection" class="tsd-signature-type">StandardConnection</a>&gt;</h5>
                                 </li>
                             </ul>
                             <h4 class="tsd-returns-title">Returns void</h4>
@@ -571,6 +583,106 @@ title: WDC API Reference
                         </li>
                     </ul>
                 </section>
+                <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
+                    <a name="webdataconnectorapi.standardconnection" class="tsd-anchor"></a>
+                    <h3>StandardConnection</h3>
+                    <div class="tsd-signature tsd-kind-icon">StandardConnection: </div>
+                    <div class="tsd-comment tsd-typography">
+                        <div class="lead">
+                            <p>The metadata for standard connections, or predefined joins.</p>
+                        </div>
+                    </div>
+					<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.standardconnection.alias" class="tsd-anchor"></a>
+                        <h3>alias</h3>
+                        <div class="tsd-signature tsd-kind-icon">alias: string</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>An alias for the standard connection. This is the name of the connection that is
+                                displayed in Tableau Desktop.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.standardconnection.tables" class="tsd-anchor"></a>
+                        <h3>tables</h3>
+                        <div class="tsd-signature tsd-kind-icon">tables: array</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>Specifies the tables that you want to join. The table properties must match the properties defined in the table schema.</p>
+								<ul>
+                                    <li>id. The table ID.</li>
+                                    <li>alias. An alias for the table.</li>
+                                </ul>
+<pre>
+"tables": [{
+    "id": "The table id",
+    "alias": "The table alias"
+}, {
+    "id": "The table id",
+    "alias": "The table alias"
+}]
+</pre>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.standardconnection.joins" class="tsd-anchor"></a>
+                        <h3>joins</h3>
+                        <div class="tsd-signature tsd-kind-icon">joins: array</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>An array of join objects which defines the order of the tables and the join type. Each join object takes the following form:</p>
+<pre>
+"joins": [{
+    "left": {
+        "tableAlias": "The alias for the table",
+        "columnId": "The id for the column"
+    },
+    "right": {
+        "tableAlias": "The alias for the table",
+        "columnId": "The id for the column"
+    },
+    "joinType": "The join type, either 'inner' or 'left'"
+}]
+</pre>
+                            </div>
+                        </div>
+                    </section>
+					<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.standardconnection.example" class="tsd-anchor"></a>
+                        <h3>Example</h3>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+<pre>
+var standardConnection = {
+    "alias": "Joined earthquake data",
+    "tables": [{
+        "id": "magPlace",
+        "alias": "Magnitude and Place"
+    }, {
+        "id": "timeUrl",
+        "alias": "Time and URL"
+    }],
+    "joins": [{
+        "left": {
+            "tableAlias": "Magnitude and Place",
+            "columnId": "id"
+        },
+        "right": {
+            "tableAlias": "Time and URL",
+            "columnId": "id"
+        },
+        "joinType": "inner"
+    }]
+};
+</pre>
+                            </div>
+                        </div>
+                    </section>
+
+                </section>
+
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.table" class="tsd-anchor"></a>
                     <h3>Table</h3>
@@ -683,105 +795,6 @@ title: WDC API Reference
                             </div>
                         </div>
                     </section>
-                </section>
-                <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
-                    <a name="webdataconnectorapi.standardconnection" class="tsd-anchor"></a>
-                    <h3>StandardConnection</h3>
-                    <div class="tsd-signature tsd-kind-icon">StandardConnection: </div>
-                    <div class="tsd-comment tsd-typography">
-                        <div class="lead">
-                            <p>The metadata for standard connections, or predefined joins.</p>
-                        </div>
-                    </div>
-					<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                        <a name="webdataconnectorapi.standardconnection.alias" class="tsd-anchor"></a>
-                        <h3>alias</h3>
-                        <div class="tsd-signature tsd-kind-icon">alias: string</div>
-                        <div class="tsd-comment tsd-typography">
-                            <div class="lead">
-                                <p>An alias for the standard connection. This is the name of the connection that is
-                                displayed in Tableau Desktop.</p>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                        <a name="webdataconnectorapi.standardconnection.tables" class="tsd-anchor"></a>
-                        <h3>tables</h3>
-                        <div class="tsd-signature tsd-kind-icon">tables: array</div>
-                        <div class="tsd-comment tsd-typography">
-                            <div class="lead">
-                                <p>Specifies the tables that you want to join. The table properties must match the properties defined in the table schema.</p>
-								<ul>
-                                    <li>id. The table ID.</li>
-                                    <li>alias. An alias for the table.</li>
-                                </ul>
-<pre>
-"tables": [{
-    "id": "The table id",
-    "alias": "The table alias"
-}, {
-    "id": "The table id",
-    "alias": "The table alias"
-}]
-</pre>
-                            </div>
-                        </div>
-                    </section>
-                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                        <a name="webdataconnectorapi.standardconnection.joins" class="tsd-anchor"></a>
-                        <h3>joins</h3>
-                        <div class="tsd-signature tsd-kind-icon">joins: array</div>
-                        <div class="tsd-comment tsd-typography">
-                            <div class="lead">
-                                <p>An array of join objects which defines the order of the tables and the join type. Each join object takes the following form:</p>
-<pre>
-"joins": [{
-    "left": {
-        "tableAlias": "The alias for the table",
-        "columnId": "The id for the column"
-    },
-    "right": {
-        "tableAlias": "The alias for the table",
-        "columnId": "The id for the column"
-    },
-    "joinType": "The join type, either 'inner' or 'left'"
-}]
-</pre>
-                            </div>
-                        </div>
-                    </section>
-					<section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
-                        <a name="webdataconnectorapi.standardconnection.example" class="tsd-anchor"></a>
-                        <h3>Example</h3>
-                        <div class="tsd-comment tsd-typography">
-                            <div class="lead">
-<pre>
-var standardConnection = {
-    "alias": "Joined earthquake data",
-    "tables": [{
-        "id": "magPlace",
-        "alias": "Magnitude and Place"
-    }, {
-        "id": "timeUrl",
-        "alias": "Time and URL"
-    }],
-    "joins": [{
-        "left": {
-            "tableAlias": "Magnitude and Place",
-            "columnId": "id"
-        },
-        "right": {
-            "tableAlias": "Time and URL",
-            "columnId": "id"
-        },
-        "joinType": "inner"
-    }]
-};
-</pre>
-                            </div>
-                        </div>
-                    </section>
-
                 </section>
                 <section class="tsd-panel tsd-member tsd-kind-interface tsd-parent-kind-module tsd-is-not-exported">
                     <a name="webdataconnectorapi.webdataconnector" class="tsd-anchor"></a>
@@ -946,7 +959,7 @@ var standardConnection = {
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.locale" class="tsd-anchor"></a>
                         <h3>locale</h3>
-                        <div class="tsd-signature tsd-kind-icon">locale: String</div>
+                        <div class="tsd-signature tsd-kind-icon">locale: <a href="api_ref.html#webdataconnectorapi.localeenum" class="tsd-signature-type">localeEnum</a></div>
                         <div class="tsd-comment tsd-typography">
                             <div class="lead">
                                 <p>Current locale, or locale with most similar language, of the web data connector user</p>
@@ -973,6 +986,65 @@ var standardConnection = {
                             </div>
                         </div>
                     </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.tableau.platformBuildNumber" class="tsd-anchor"></a>
+                        <h3>platformBuildNumber</h3>
+                        <div class="tsd-signature tsd-kind-icon">platformBuildNumber: String</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>The build number for Tableau Desktop.</p>
+                            </div>
+                            <div>
+                                <p>For example, you might see a build number like this:</p>
+                                <code>10100.16.1005.2001</code>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.tableau.platformEdition" class="tsd-anchor"></a>
+                        <h3>platformEdition</h3>
+                        <div class="tsd-signature tsd-kind-icon">platformEdition: String</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>The edition of Tableau Desktop.</p>
+                            </div>
+                            <div>
+                                <p>Either <code>pro</code>, <code>standard</code>, or
+                                <code>public</code>.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.tableau.platformOs" class="tsd-anchor"></a>
+                        <h3>platformOs</h3>
+                        <div class="tsd-signature tsd-kind-icon">platformOs: String</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>The operating system on which Tableau Destkop is installed.</p>
+                            </div>
+                            <div>
+                                <p>Either <code>win</code> for Windows or <code>mac</code> for MacOS.</p>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
+                        <a name="webdataconnectorapi.tableau.platformVersion" class="tsd-anchor"></a>
+                        <h3>platformVersion</h3>
+                        <div class="tsd-signature tsd-kind-icon">platformVersion: String</div>
+                        <div class="tsd-comment tsd-typography">
+                            <div class="lead">
+                                <p>The version of Tableau Desktop.</p>
+                            </div>
+                            <div>
+                                <p>Tableau uses semantic versioning, which means that
+                                the version matches the following syntax:</p>
+                                <p><code>major.minor.patch</code></p>
+                                <p>For example, you might see the following version:</p>
+                                <p></code>10.1.0</code></p>
+                            </div>
+                        </div>
+                    </section>
+                    <!-- -->
                     <section class="tsd-panel tsd-member tsd-kind-property tsd-parent-kind-interface tsd-is-not-exported">
                         <a name="webdataconnectorapi.tableau.username" class="tsd-anchor"></a>
                         <h3>username</h3>
